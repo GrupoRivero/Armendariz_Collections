@@ -10,8 +10,7 @@ box-sizing:border-box;
 div figure .logo
 {
 	width: 250px ;
-	display: block;
-
+	display: inline;
 }
 
 aside
@@ -35,10 +34,7 @@ aside ul
 	border-bottom: 1px solid #cccccc;
 	font-size: 12px;
 }
-#logo-footer figure img
-{
-	width: 250px;
-}
+
 aside article figure img
 
 	{
